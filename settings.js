@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
+global.ownernomer = "254769365617"
+global.ownername = "🕷Jinwiil-v2-BUG🕷"
 global.ytname = "🕷BADBOI-v2-BUG🕷"
-global.socialm = "GitHub: BADBOI-v1"
+global.socialm = "GitHub: Jinwiil49"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
+global.ownernumber = '254769365617,254784320958,254773702337'  //creator number
+global.ownername = '🕷Jinwiil-v2-BUG🕷' //owner name
 global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.author = 'BADBOI HACKER\n\nContact: +254769365617'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "BADBOI HACKER Tech."
+global.wm = "Jinwiil HACKER Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
+global.link = 'https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
